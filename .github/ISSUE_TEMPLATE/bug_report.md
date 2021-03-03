@@ -1,7 +1,7 @@
 ---
 name: Bug report
-about: "Create a bug report. For documentation issues or improvements please contact
-  us via mail. \t"
+about: "Create a bug report. For issues or improvements of learn.watterott.com please
+  contact us via mail. \t"
 title: ''
 labels: ''
 assignees: ''
